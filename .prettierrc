@@ -1,8 +1,8 @@
 {
-  "printWidth": 85, //formatting as a paper
-  "semi": true, //always want semicolon
+  "printWidth": 85,
+  "semi": true,
   "tabWidth": 2,
-  "trailingComma": "all", //in objects it automaically add commas in properties on end..or arrays
-  "endOfLine": "lf", //linux line feed
+  "trailingComma": "all",
+  "endOfLine": "lf",
   "bracketSpacing": true
 }
