@@ -1,0 +1,24 @@
+.container {
+  padding: 15px 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  img {
+    max-width: 500px;
+    border-radius: 50%;
+  }
+}
+
+.facts {
+  padding: 100px;
+
+  button {
+    padding: 20px;
+  }
+
+  ul {
+    padding: 10px;
+  }
+}
