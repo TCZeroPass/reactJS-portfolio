@@ -6,6 +6,11 @@
   align-items: center;
   background-color: #333333;
   color: #e6e6e6;
+  a {
+    color: currentColor;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
 
   ul {
     list-style-type: none;
@@ -14,11 +19,5 @@
   ul li {
     display: inline;
     padding: 0px 10px;
-
-    a {
-      color: currentColor; //from scss
-      text-decoration: none;
-      text-transform: uppercase;
-    }
   }
 }
